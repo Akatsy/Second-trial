@@ -38,4 +38,4 @@ Github formatting syntax basics
   - Nakuru
  #### links
  
- [Github signin](https://github.com/Akatsy/Second-trial/edit/main/README.md)
+ [Outreachy internship](https://www.outreachy.org/docs/internship/)
