@@ -19,6 +19,7 @@ Github formatting syntax basics
    - cakes
    - mangoes
    - tomtoes
+   - appls
 
  #### Number items
  1. Books
@@ -43,6 +44,27 @@ Github formatting syntax basics
   - Kisumu
   - Mombasa
   - Nakuru
+  - kilifi
+  
  #### links
  
  [Outreachy internship](https://www.outreachy.org/docs/internship/)
+
+ #### QUOTecode
+ 
+ ```
+ git clone
+ git add
+ git status
+ git log
+ git push
+ git fetch
+ git commit
+ git config -- list
+ git add .
+ ls
+ cd
+ dir
+ git dii
+ ```
+
