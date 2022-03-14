@@ -49,6 +49,8 @@ Github formatting syntax basics
  #### links
  
  [Outreachy internship](https://www.outreachy.org/docs/internship/)
+ 
+[python variables](https://www.w3schools.com/python/python_lists_sort.asp)
 
  #### QUOTecode
  
