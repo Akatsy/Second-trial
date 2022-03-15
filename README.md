@@ -52,7 +52,9 @@ Github formatting syntax basics
  
 [python variables](https://www.w3schools.com/python/python_lists_sort.asp)
 
- #### QUOTecode
+[SQL data manipulation commands](https://www.w3schools.com/sql/default.asp)
+
+ #### QUOTE code
  
  ```
  git clone
