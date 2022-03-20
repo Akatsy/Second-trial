@@ -54,6 +54,8 @@ Github formatting syntax basics
 
 [SQL data manipulation commands](https://www.w3schools.com/sql/default.asp)
 
+[python functions](https://www.youtube.com/watch?v=-Bkupx9gX0o)
+
  #### QUOTE code
  
  ```
