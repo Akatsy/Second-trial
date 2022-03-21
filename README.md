@@ -56,6 +56,8 @@ Github formatting syntax basics
 
 [python functions](https://www.youtube.com/watch?v=-Bkupx9gX0o)
 
+[NVDIA AI, STEPS TO START A CAREER IN AI](https://www.nvidia.com/gtc/session-catalog/?search=kate%20kallot&tab.day=20220321&search=kate+kallot#/session/1643150696879001ucMs)
+
  #### QUOTE code
  
  ```
