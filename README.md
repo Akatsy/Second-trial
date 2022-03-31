@@ -65,6 +65,8 @@ Github formatting syntax basics
 
 [convert column types to numeric]( https://www.youtube.com/watch?v=ox_AHkeqNJ0)
 
+[How to change the datatype of a column in Pandas](https://www.youtube.com/watch?v=evKYySLSzyk)
+
  #### QUOTE code
  
  ```
