@@ -63,7 +63,7 @@ Github formatting syntax basics
 
 [SOME PYTHON PROJECTS](https://projectgurukul.org/category/python-projects/page/2/)
 
-[convert column types to numeric])( https://www.youtube.com/watch?v=ox_AHkeqNJ0)
+[convert column types to numeric]( https://www.youtube.com/watch?v=ox_AHkeqNJ0)
 
  #### QUOTE code
  
