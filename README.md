@@ -60,6 +60,8 @@ Github formatting syntax basics
 
 [JAVAPOINT PROJECTS](https://www.javatpoint.com/transport-company-project)
 
+[methods to deal with missing values in a df](https://www.youtube.com/watch?v=fCMrO_VzeL8)
+
 
 [SOME PYTHON PROJECTS](https://projectgurukul.org/category/python-projects/page/2/)
 
