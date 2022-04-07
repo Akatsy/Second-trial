@@ -1,7 +1,6 @@
 # Second-trial
 Github formatting syntax basics
 
-
  #### Bold text
  
  **I love cakes**
@@ -17,21 +16,10 @@ Github formatting syntax basics
    #### List items
    
    - cakes
-   - mangoes
-   - tomtoes
-   - appls
-
+  
  #### Number items
  1. Books
- 2. PENS
- 3. FILES
- 4. pens
 
-
-##### Number of friends
-
-1. kevin
-2. moureen
 
 
  #### Order on unordered
