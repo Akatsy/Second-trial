@@ -57,6 +57,8 @@ Github formatting syntax basics
 
 [How to change the datatype of a column in Pandas](https://www.youtube.com/watch?v=evKYySLSzyk)
 
+[WHEN TO USE NORMAL SCALING AND POWERLOG TRANSMISSION](https://towardsdatascience.com/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94)
+
  #### QUOTE code
  
  ```
